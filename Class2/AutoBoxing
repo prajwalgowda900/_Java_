@@ -13,7 +13,5 @@ class Demo{
         System.out.println(salary);
       
 
-
-
     }
 }
