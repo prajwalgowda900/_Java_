@@ -10,3 +10,4 @@ class Demo{
             System.out.println("Odd Number");
         }
     }
+}
